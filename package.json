@@ -1,0 +1,23 @@
+{
+  "name": "prototype-sticky-navbar",
+  "version": "1.0.0",
+  "description": "A prototype for a sticky navbar for the Photosphere frontend.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rapid-Fullstack-Development/prototype-sticky-navbar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rapid-Fullstack-Development/prototype-sticky-navbar/issues"
+  },
+  "homepage": "https://github.com/Rapid-Fullstack-Development/prototype-sticky-navbar#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
